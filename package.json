@@ -5,7 +5,7 @@
   "description": "Reindents your document.",
   "keywords": [],
   "activationCommands": {
-    "atom-workspace": "reindenter:toggle"
+    "atom-workspace": "reindenter:manualReindent"
   },
   "repository": "https://github.com/MikauSchekzen/atom-reindenter",
   "license": "MIT",

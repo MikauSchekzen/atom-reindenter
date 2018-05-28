@@ -1,5 +1,5 @@
 {
   "atom-workspace": {
-    "shift-alt-r": "reindenter:toggle"
+    "ctrl-shift-alt-r": "reindenter:manualReindent"
   }
 }

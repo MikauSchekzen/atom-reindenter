@@ -2,8 +2,8 @@
   "context-menu": {
     "atom-text-editor": [
       {
-        "label": "Toggle reindenter",
-        "command": "reindenter:toggle"
+        "label": "Manual Reindent",
+        "command": "reindenter:manualReindent"
       }
     ]
   },
@@ -15,22 +15,12 @@
           "label": "Reindenter",
           "submenu": [
             {
-              "label": "Toggle",
-              "command": "reindenter:toggle"
+              "label": "Manual Reindent",
+              "command": "reindenter:manualReindent"
             }
           ]
         }
       ]
-    }
-  ],
-  "reindenter-from-menu": [
-    {
-      "label": "1",
-      "command": "reindenter:from1"
-    },
-    {
-      "label": "2",
-      "command": "reindenter:from2"
     }
   ]
 }
