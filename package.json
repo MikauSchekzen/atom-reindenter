@@ -1,5 +1,5 @@
 {
-  "name": "Reindenter",
+  "name": "reindenter",
   "main": "./lib/reindenter",
   "version": "0.0.0",
   "description": "Reindents your document.",

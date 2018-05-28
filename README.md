@@ -15,7 +15,7 @@ Atom text editor ([https://atom.io])
 Use Atom's built-in package installer or use
 
 ```
-apm install atom-reindenter
+apm install reindenter
 ```
 
 ## Usage
