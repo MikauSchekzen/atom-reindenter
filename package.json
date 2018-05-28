@@ -5,7 +5,10 @@
   "description": "Reindents your document.",
   "keywords": [],
   "activationCommands": {
-    "atom-workspace": "reindenter:manualReindent"
+    "atom-workspace": [
+      "reindenter:manualReindent",
+      "reindenter:quickReindent"
+    ]
   },
   "repository": "https://github.com/MikauSchekzen/atom-reindenter",
   "license": "MIT",
@@ -13,6 +16,7 @@
     "atom": ">=1.0.0 <2.0.0"
   },
   "dependencies": {
-    "atom-space-pen-views": "^2.0.3"
+    "atom-space-pen-views": "^2.0.3",
+    "detect-indent": "^5.0.0"
   }
 }

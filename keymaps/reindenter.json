@@ -1,5 +1,6 @@
 {
   "atom-workspace": {
-    "shift-alt-r": "reindenter:manualReindent"
+    "shift-alt-r": "reindenter:quickReindent",
+    "ctrl-shift-alt-r": "reindenter:manualReindent"
   }
 }

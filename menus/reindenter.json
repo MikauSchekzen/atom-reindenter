@@ -15,6 +15,10 @@
           "label": "Reindenter",
           "submenu": [
             {
+              "label": "Quick Reindent",
+              "command": "reindenter:quickReindent"
+            },
+            {
               "label": "Manual Reindent",
               "command": "reindenter:manualReindent"
             }

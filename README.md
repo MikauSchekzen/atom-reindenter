@@ -20,9 +20,15 @@ apm install reindenter
 
 ## Usage
 
+### Reindenting quickly (detect indent)
+
+1. Use `shift-alt-r` to quickly reindent to soft tabs from the editor settings, by detecting current indentation.
+
+2. Done.
+
 ### Reindenting manually
 
-1. Use `shift-alt-r` to open a panel to manually reindent.
+1. Use `ctrl-shift-alt-r` to open a panel to manually reindent.
 
 2. Specify the number of spaces per indentation the document currently uses.
 
