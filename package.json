@@ -1,10 +1,9 @@
 {
   "name": "reindenter",
   "main": "./lib/reindenter",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Reindents your document.",
-  "keywords": [
-  ],
+  "keywords": [],
   "activationCommands": {
     "atom-workspace": "reindenter:toggle"
   },
