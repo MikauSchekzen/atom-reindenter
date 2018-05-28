@@ -22,7 +22,7 @@ apm install reindenter
 
 ### Reindenting manually
 
-1. Use `ctrl-shift-alt-r` to open a panel to manually reindent.
+1. Use `shift-alt-r` to open a panel to manually reindent.
 
 2. Specify the number of spaces per indentation the document currently uses.
 
