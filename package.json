@@ -1,14 +1,14 @@
 {
   "name": "Reindenter",
   "main": "./lib/reindenter",
-  "version": "0.0.1",
+  "version": "0.0.0",
   "description": "Reindents your document.",
   "keywords": [
   ],
   "activationCommands": {
     "atom-workspace": "reindenter:toggle"
   },
-  "repository": "https://github.com/atom/reindenter",
+  "repository": "https://github.com/MikauSchekzen/atom-reindenter",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
