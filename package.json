@@ -1,7 +1,7 @@
 {
   "name": "reindenter",
   "main": "./lib/reindenter",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Reindents your document.",
   "keywords": [],
   "activationCommands": {
